@@ -1,0 +1,4 @@
+com/licious/expenseapp/integration/IntegrationTest.class
+com/licious/expenseapp/service/ExpenseServiceTest.class
+com/licious/expenseapp/ExpenseAppApplicationTests.class
+com/licious/expenseapp/controller/HomeControllerTest.class
